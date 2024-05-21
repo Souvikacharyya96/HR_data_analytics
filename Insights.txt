@@ -1,0 +1,11 @@
+Analysis Objective: Our aim is to identify the key factors driving employee attrition and provide actionable insights for improving workforce retention.
+
+Tool Used: Powered by Microsoft Power BI, this report offers intuitive visualizations and interactive features.
+
+Key Insights:
+1️. We observed an overall attrition rate of 16.12% among our workforce of 1470 employees.
+2️. 17% of the Male workforce, i.e. 150 males and 15% of the Female workforce, i.e. 87 females left the organization.
+3️. The attrition rate of High School is 18.24% which is maximum among the other education. 
+4️. The age group of 25-34 years had the highest attrition rate, warranting targeted retention strategies for this demographic. 
+5️. There are more number of employees under the age group of 25-34 years.
+6️. The attrition rate of R&D Department is maximum with 90%
